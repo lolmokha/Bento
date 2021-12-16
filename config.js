@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Omar',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -24,7 +24,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
