@@ -81,8 +81,8 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  //firstListIcon: 'music',
-  //secondListIcon: 'coffee',
+  firstListIcon: 'music',
+  secondListIcon: 'shopping-cart',
 
   // Links
   lists: {
@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'CNCPTS',
-        link: 'https://cncpts.ae/',
+        name: 'Gogoanime',
+        link: 'https://www2.gogoanime.cm/',
       },
       {
-        name: 'Foot Locker',
-        link: 'https://www.footlocker.ae/en/',
+        name: 'Gitlab',
+        link: 'https://gitlab-student.macs.hw.ac.uk/',
       },
       {
-        name: 'Jordan DXB',
-        link: 'https://jordandxb.com/',
+        name: 'Zooqle',
+        link: 'https://zooqle.com/',
       },
       {
-        name: 'Firefox Config',
-        link: 'about:config',
+        name: 'Nyaa',
+        link: 'https://nyaa.si/',
       },
     ],
   },
