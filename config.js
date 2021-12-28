@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+ // weatherKey: 'InsertYourAPIKeyHere123456',
+ // weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
+ // weatherUnit: 'C', // 'F', 'C'
+  //language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+ // trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+//  defaultLatitude: '37.775',
+//  defaultLongitude: '-122.419',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -48,31 +48,31 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://outlook.office.com/mail/inbox',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Canvas',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://canvas.hw.ac.uk/',
     },
     {
       id: '4',
-      name: 'Calendar',
+      name: 'Spotify',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://open.spotify.com/',
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'Whatsapp',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://web.whatsapp.com/',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -81,8 +81,8 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  //firstListIcon: 'music',
+  //secondListIcon: 'coffee',
 
   // Links
   lists: {
