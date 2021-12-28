@@ -81,15 +81,15 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'shopping-cart',
+  firstListIcon: 'book-open',
+  secondListIcon: 'monitor',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Discord',
-        link: 'https://discord.com/channels/@me',
+        name: 'Gitlab',
+        link: 'https://gitlab-student.macs.hw.ac.uk/',
       },
       {
         name: 'Arch Wiki',
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://www2.gogoanime.cm/',
       },
       {
-        name: 'Gitlab',
-        link: 'https://gitlab-student.macs.hw.ac.uk/',
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me',  
       },
       {
         name: 'Zooqle',
