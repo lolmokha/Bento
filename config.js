@@ -52,27 +52,27 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Canvas',
-      icon: 'trello',
-      link: 'https://canvas.hw.ac.uk/',
-    },
-    {
-      id: '4',
-      name: 'Spotify',
-      icon: 'calendar',
-      link: 'https://open.spotify.com/',
-    },
-    {
-      id: '5',
       name: 'Whatsapp',
-      icon: 'glasses',
+      icon: 'message-circle',
       link: 'https://web.whatsapp.com/',
     },
     {
-      id: '6',
+      id: '4',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://www.youtube.com/',
+    },
+    {
+      id: '5',
+      name: ' Twitch',
+      icon: 'twitch',
+      link: 'http://twitch.tv',
+    },
+    {
+      id: '6',
+      name: ' Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com/home',
     },
   ],
 
@@ -88,38 +88,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Arch Wiki',
+        link: 'https://wiki.archlinux.org/',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Canvas',
+        link: 'https://canvas.hw.ac.uk/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Spotify',
+        link: 'https://open.spotify.com/',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'CNCPTS',
+        link: 'https://cncpts.ae/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Foot Locker',
+        link: 'https://www.footlocker.ae/en/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Jordan DXB',
+        link: 'https://jordandxb.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Firefox Config',
+        link: 'about:config',
       },
     ],
   },
