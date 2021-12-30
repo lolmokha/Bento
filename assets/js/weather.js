@@ -70,6 +70,7 @@ function getWeather() {
   //     displayWeather();
   //   });
   let quotesDiv = document.getElementById("quotes")
+  console.log("hello");
   fetch (`https://api.kanye.rest/`)
   .then (result => result.json())
   .then (quote => {
