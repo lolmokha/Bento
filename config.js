@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: ' about:config',
-      icon: 'settings',
-      link: 'about:config',
+      name: ' Speedtest',
+      icon: 'wifi',
+      link: 'https://www.speedtest.net/',
     },
     {
       id: '6',
