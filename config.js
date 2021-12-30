@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: ' Twitch',
-      icon: 'twitch',
-      link: 'http://twitch.tv',
+      name: ' about:config',
+      icon: 'settings',
+      link: 'about:config',
     },
     {
       id: '6',
