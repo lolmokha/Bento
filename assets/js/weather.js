@@ -69,11 +69,11 @@ function getWeather() {
   //   .then(function () {
   //     displayWeather();
   //   });
-  let quotes = document.getElementById("quotes")
+  let quotesDiv = document.getElementById("quotes")
   fetch (`https://api.kanye.rest/`)
   .then (result => result.json())
   .then (quote => {
-    quotes.innerHTML +=`<p>${quote.quote}</p>`
+    quotesDiv.innerHTML +=`<p>${quote.quote}</p>`
   })
 }
 
