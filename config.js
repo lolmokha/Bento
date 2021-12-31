@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Omar',
   imageBackground: false,
-  openInNewTab: false,
+  openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
@@ -102,7 +102,7 @@ const CONFIG = {
       },
       {
         name: 'Discord',
-        link: 'https://discord.com/channels/@me',  
+        link: 'https://discord.com/channels/@me',
       },
       {
         name: 'Zooqle',
