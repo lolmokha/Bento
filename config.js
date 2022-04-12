@@ -102,7 +102,7 @@ const CONFIG = {
       },
       {
         name: 'Zoro',
-        link: 'https://zoro.to/',
+        link: 'https://zoro.to/home',
       },
       {
         name: 'Zooqle',
