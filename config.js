@@ -98,7 +98,7 @@ const CONFIG = {
     secondList: [
       {
         name: 'Gogoanime',
-        link: 'https://www2.gogoanime.cm/',
+        link: 'https://gogoanime.fi/',
       },
       {
         name: 'Zoro',
