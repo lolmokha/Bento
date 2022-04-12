@@ -92,7 +92,7 @@ const CONFIG = {
       },
       {
         name: 'Discord',
-        link: 'https://discord.com/channels/@me,
+        link: 'https://discord.com/channels/@me',
       },
     ],
     secondList: [
