@@ -91,8 +91,8 @@ const CONFIG = {
         link: 'https://canvas.hw.ac.uk/',
       },
       {
-        name: 'Spotify',
-        link: 'https://open.spotify.com/',
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me,
       },
     ],
     secondList: [
@@ -101,8 +101,8 @@ const CONFIG = {
         link: 'https://www2.gogoanime.cm/',
       },
       {
-        name: 'Discord',
-        link: 'https://discord.com/channels/@me',
+        name: 'Zoro',
+        link: 'https://zoro.to/',
       },
       {
         name: 'Zooqle',
