@@ -105,8 +105,8 @@ const CONFIG = {
         link: 'https://zoro.to/home',
       },
       {
-        name: 'Zooqle',
-        link: 'https://zooqle.com/',
+        name: '1337x',
+        link: 'https://www.1337x.to/',
       },
       {
         name: 'Nyaa',
