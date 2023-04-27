@@ -91,8 +91,8 @@ const CONFIG = {
         link: 'https://canvas.hw.ac.uk/',
       },
       {
-        name: 'Discord',
-        link: 'https://discord.com/channels/@me',
+        name: 'Megathread',
+        link: 'https://rentry.co/megathread',
       },
     ],
     secondList: [
