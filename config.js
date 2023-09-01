@@ -101,8 +101,8 @@ const CONFIG = {
         link: 'https://aniwave.to/home',
       },
       {
-        name: 'Zoro',
-        link: 'https://zoro.to/home',
+        name: 'Amazon',
+        link: 'https://www.amazon.ae/',
       },
       {
         name: '1337x',
