@@ -79,26 +79,26 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Gitlab',
-        link: 'https://gitlab-student.macs.hw.ac.uk/',
+        name: 'Linkedin',
+        link: 'https://www.linkedin.com/feed/',
       },
       {
         name: 'Arch Wiki',
         link: 'https://wiki.archlinux.org/',
       },
       {
-        name: 'Canvas',
-        link: 'https://canvas.hw.ac.uk/',
+        name: 'Gmail',
+        link: 'mail.google.com',
       },
       {
-        name: 'Megathread',
+        name: '🏴‍☠️ Megathread',
         link: 'https://rentry.co/megathread',
       },
     ],
     secondList: [
       {
-        name: 'Gogoanime',
-        link: 'https://gogoanime.fi/',
+        name: 'Aniwave',
+        link: 'https://aniwave.to/home',
       },
       {
         name: 'Zoro',
