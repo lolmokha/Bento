@@ -79,16 +79,16 @@ const CONFIG = {
   lists: {
     firstList: [
       {
+        name: 'Gmail',
+        link: 'mail.google.com',
+      },
+      {
         name: 'Linkedin',
         link: 'https://www.linkedin.com/feed/',
       },
       {
         name: 'Arch Wiki',
         link: 'https://wiki.archlinux.org/',
-      },
-      {
-        name: 'Gmail',
-        link: 'mail.google.com',
       },
       {
         name: '🏴‍☠️ Megathread',
