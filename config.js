@@ -78,9 +78,9 @@ const CONFIG = {
   // Links
   lists: {
     firstList: [
-      {
+        {
         name: 'Gmail',
-        link: 'mail.google.com',
+        link: 'https://mail.google.com',
       },
       {
         name: 'Linkedin',
