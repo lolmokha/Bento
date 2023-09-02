@@ -87,8 +87,8 @@ const CONFIG = {
         link: 'https://www.linkedin.com/feed/',
       },
       {
-        name: 'Arch Wiki',
-        link: 'https://wiki.archlinux.org/',
+        name: 'Amazon',
+        link: 'https://www.amazon.ae/',
       },
       {
         name: '🏴‍☠️ Megathread',
@@ -101,8 +101,8 @@ const CONFIG = {
         link: 'https://aniwave.to/home',
       },
       {
-        name: 'Amazon',
-        link: 'https://www.amazon.ae/',
+        name: 'Wayback machine',
+        link: 'https://archive.org/',
       },
       {
         name: '1337x',
